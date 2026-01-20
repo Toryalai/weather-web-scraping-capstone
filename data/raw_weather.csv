@@ -1,0 +1,27 @@
+City,Time,Temperature,Weather,Wind,Humidity,Scraped_At
+"Washington, DC","5:00 pm
+Tue, Jan 20",29 °F,Sunny.,9 mph,22%,2026-01-20T16:29:19.259716
+"Washington, DC",6:00 pm,28 °F,Clear.,8 mph,26%,2026-01-20T16:29:19.447260
+"Washington, DC",7:00 pm,25 °F,Clear.,7 mph,32%,2026-01-20T16:29:19.622567
+"Washington, DC",8:00 pm,24 °F,Clear.,7 mph,35%,2026-01-20T16:29:19.769190
+"Washington, DC",9:00 pm,22 °F,Clear.,6 mph,38%,2026-01-20T16:29:19.874841
+"Washington, DC",10:00 pm,22 °F,Clear.,6 mph,39%,2026-01-20T16:29:20.034453
+"Washington, DC",11:00 pm,21 °F,Clear.,4 mph,41%,2026-01-20T16:29:20.188679
+"Washington, DC","12:00 am
+Wed, Jan 21",20 °F,Clear.,2 mph,43%,2026-01-20T16:29:20.301830
+"Washington, DC",1:00 am,19 °F,Clear.,1 mph,46%,2026-01-20T16:29:20.502007
+"Washington, DC",2:00 am,17 °F,Clear.,2 mph,49%,2026-01-20T16:29:20.709707
+"Washington, DC",3:00 am,17 °F,Clear.,3 mph,52%,2026-01-20T16:29:20.919855
+"Washington, DC",4:00 am,18 °F,Clear.,4 mph,50%,2026-01-20T16:29:21.155674
+"Washington, DC",5:00 am,19 °F,Clear.,4 mph,47%,2026-01-20T16:29:21.326539
+"Washington, DC",6:00 am,19 °F,Clear.,5 mph,47%,2026-01-20T16:29:21.455554
+"Washington, DC",7:00 am,18 °F,Clear.,5 mph,50%,2026-01-20T16:29:21.646087
+"Washington, DC",8:00 am,18 °F,Sunny.,6 mph,51%,2026-01-20T16:29:21.838341
+"Washington, DC",9:00 am,24 °F,Sunny.,7 mph,44%,2026-01-20T16:29:22.018888
+"Washington, DC",10:00 am,29 °F,Sunny.,9 mph,38%,2026-01-20T16:29:22.222436
+"Washington, DC",11:00 am,34 °F,Scattered clouds.,10 mph,31%,2026-01-20T16:29:22.485141
+"Washington, DC",12:00 pm,37 °F,Partly cloudy.,11 mph,25%,2026-01-20T16:29:22.566873
+"Washington, DC",1:00 pm,38 °F,Mostly cloudy.,12 mph,22%,2026-01-20T16:29:22.735940
+"Washington, DC",2:00 pm,40 °F,Partly cloudy.,12 mph,21%,2026-01-20T16:29:22.906693
+"Washington, DC",3:00 pm,41 °F,Broken clouds.,12 mph,21%,2026-01-20T16:29:23.093330
+"Washington, DC",4:00 pm,41 °F,Mostly cloudy.,12 mph,23%,2026-01-20T16:29:23.236970

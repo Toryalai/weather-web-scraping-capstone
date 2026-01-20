@@ -1,0 +1,27 @@
+City,Time,Weather,Scraped_At,Temperature_F,Wind_mph,Humidity_pct
+"Washington, DC","5:00 pm
+Tue, Jan 20",Sunny.,2026-01-20T16:29:19.259716,29,9,22
+"Washington, DC",6:00 pm,Clear.,2026-01-20T16:29:19.447260,28,8,26
+"Washington, DC",7:00 pm,Clear.,2026-01-20T16:29:19.622567,25,7,32
+"Washington, DC",8:00 pm,Clear.,2026-01-20T16:29:19.769190,24,7,35
+"Washington, DC",9:00 pm,Clear.,2026-01-20T16:29:19.874841,22,6,38
+"Washington, DC",10:00 pm,Clear.,2026-01-20T16:29:20.034453,22,6,39
+"Washington, DC",11:00 pm,Clear.,2026-01-20T16:29:20.188679,21,4,41
+"Washington, DC","12:00 am
+Wed, Jan 21",Clear.,2026-01-20T16:29:20.301830,20,2,43
+"Washington, DC",1:00 am,Clear.,2026-01-20T16:29:20.502007,19,1,46
+"Washington, DC",2:00 am,Clear.,2026-01-20T16:29:20.709707,17,2,49
+"Washington, DC",3:00 am,Clear.,2026-01-20T16:29:20.919855,17,3,52
+"Washington, DC",4:00 am,Clear.,2026-01-20T16:29:21.155674,18,4,50
+"Washington, DC",5:00 am,Clear.,2026-01-20T16:29:21.326539,19,4,47
+"Washington, DC",6:00 am,Clear.,2026-01-20T16:29:21.455554,19,5,47
+"Washington, DC",7:00 am,Clear.,2026-01-20T16:29:21.646087,18,5,50
+"Washington, DC",8:00 am,Sunny.,2026-01-20T16:29:21.838341,18,6,51
+"Washington, DC",9:00 am,Sunny.,2026-01-20T16:29:22.018888,24,7,44
+"Washington, DC",10:00 am,Sunny.,2026-01-20T16:29:22.222436,29,9,38
+"Washington, DC",11:00 am,Scattered clouds.,2026-01-20T16:29:22.485141,34,10,31
+"Washington, DC",12:00 pm,Partly cloudy.,2026-01-20T16:29:22.566873,37,11,25
+"Washington, DC",1:00 pm,Mostly cloudy.,2026-01-20T16:29:22.735940,38,12,22
+"Washington, DC",2:00 pm,Partly cloudy.,2026-01-20T16:29:22.906693,40,12,21
+"Washington, DC",3:00 pm,Broken clouds.,2026-01-20T16:29:23.093330,41,12,21
+"Washington, DC",4:00 pm,Mostly cloudy.,2026-01-20T16:29:23.236970,41,12,23
